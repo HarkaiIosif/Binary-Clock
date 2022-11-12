@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Clock", "Binary Clock\Binary Clock.csproj", "{1C51F33F-B58F-4D07-BB29-699986C4ADC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C51F33F-B58F-4D07-BB29-699986C4ADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C51F33F-B58F-4D07-BB29-699986C4ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C51F33F-B58F-4D07-BB29-699986C4ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C51F33F-B58F-4D07-BB29-699986C4ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCBA32D-131C-4C38-AEEE-95E74DC0C9C6}
+	EndGlobalSection
+EndGlobal
